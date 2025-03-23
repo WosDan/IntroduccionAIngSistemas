@@ -19,23 +19,26 @@ A continuación, los siguientes perfiles:
 
 Y ahora mostramos el banco de preguntas del cual hicimos la selección:
 #### Perfil 1
-1.  *** ¿Los puntajes en matemáticas han mejorado con el tiempo? ***
-2.  *** ¿Cuál es la materia más baja y la materia más alta? ***
+1.  **¿Los puntajes en matemáticas han mejorado con el tiempo?**
+2.  **¿Cuál es la materia más baja y la materia más alta?**
 3. ¿Los estudiantes de colegios privados tienen mejores resultados en matemáticas que los de colegios públicos? 
 4. ¿Cuál ha sido la evolución del puntaje global en los últimos años? 
 5. ¿Los estudiantes que presentan la prueba en un departamento diferente al que residen tienen un puntaje diferente al de quienes la presentan en su lugar de residencia? 
+
 #### Perfil 2
 1. ¿La edad influye en los resultados de los ICFES?
-2.  *** ¿El nivel educativo de los padres influye en los puntajes de los estudiantes? ***
+2.  **¿El nivel educativo de los padres influye en los puntajes de los estudiantes?**
 3. ¿Existe una relación entre el número de habitaciones del hogar y el puntaje?  
-4.  *** ¿Cuál es la relación entre el departamento y el puntaje, hay diferencia regional? ***
+4.  **¿Cuál es la relación entre el departamento y el puntaje, hay diferencia regional?**
 5. ¿El estrato socioeconómico de la familia influye en el resultado? 
+
 #### Perfil 3
 1. ¿Hay relación entre el acceso a computadores y los resultados?
 2. ¿Existe relación entre el estrato socioeconómico y los puntajes en cada materia? 
-3.  *** ¿Los estudiantes de jornada nocturna tienen puntajes más bajos que los de jornada diurna? ***
-4.  *** ¿El acceso a internet influye en la mejoría de los resultados ICFES? *** 
+3.  **¿Los estudiantes de jornada nocturna tienen puntajes más bajos que los de jornada diurna?**
+4.  **¿El acceso a internet influye en la mejoría de los resultados ICFES?** 
 5. ¿Hay relación entre que los estudiantes tengan internet y computador con el departamento? 
+
 
 ### Herramientas de análisis
 En este trabajo utilizamos principalmente 3 librerías de python:
