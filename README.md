@@ -19,24 +19,24 @@ A continuación, los siguientes perfiles:
 
 Y ahora mostramos el banco de preguntas del cual hicimos la selección:
 #### Perfil 1
-1.  <u>¿Los puntajes en matemáticas han mejorado con el tiempo?</u>
-2.  <u>¿Cuál es la materia más baja y la materia más alta?</u>
+1.  *<u>¿Los puntajes en matemáticas han mejorado con el tiempo?</u> *
+2.  *<u>¿Cuál es la materia más baja y la materia más alta?</u> *
 3. ¿Los estudiantes de colegios privados tienen mejores resultados en matemáticas que los de colegios públicos? 
 4. ¿Cuál ha sido la evolución del puntaje global en los últimos años? 
 5. ¿Los estudiantes que presentan la prueba en un departamento diferente al que residen tienen un puntaje diferente al de quienes la presentan en su lugar de residencia? 
 
 #### Perfil 2
 1. ¿La edad influye en los resultados de los ICFES?
-2.  <u>¿El nivel educativo de los padres influye en los puntajes de los estudiantes?</u>
+2.  *<u>¿El nivel educativo de los padres influye en los puntajes de los estudiantes?</u> * 
 3. ¿Existe una relación entre el número de habitaciones del hogar y el puntaje?  
-4.  <u>¿Cuál es la relación entre el departamento y el puntaje, hay diferencia regional?</u>
+4.  *<u>¿Cuál es la relación entre el departamento y el puntaje, hay diferencia regional?</u> *
 5. ¿El estrato socioeconómico de la familia influye en el resultado? 
 
 #### Perfil 3
 1. ¿Hay relación entre el acceso a computadores y los resultados?
 2. ¿Existe relación entre el estrato socioeconómico y los puntajes en cada materia? 
-3.  <u>¿Los estudiantes de jornada nocturna tienen puntajes más bajos que los de jornada diurna?</u>
-4.  <u>¿El acceso a internet influye en la mejoría de los resultados ICFES?</u> 
+3.  *<u>¿Los estudiantes de jornada nocturna tienen puntajes más bajos que los de jornada diurna?</u> *
+4.  *<u>¿El acceso a internet influye en la mejoría de los resultados ICFES?</u> * 
 5. ¿Hay relación entre que los estudiantes tengan internet y computador con el departamento? 
 
 
