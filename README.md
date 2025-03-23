@@ -1,7 +1,10 @@
 # IntroduccionAIngSistemas
 Proyecto hecho por:
+
 -José Angulo
+
 -Daniel Rincón
+
 -Sebastián Ibáñez
 
 # ¿De qué trata este repositorio?
