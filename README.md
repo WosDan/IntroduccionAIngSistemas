@@ -12,32 +12,62 @@ En este repositorio utilizamos una base de datos que contiene los detalles de la
 
 
 # Metodología
-A continuación, los siguientes perfiles:
-- Un profesor que quiere mejorar los métodos de enseñanza. 
-- Un trabajador del ministerio de educación que investiga sobre cómo mejorar la equidad en la educación. 
-- Un investigador de educación y tecnología
+<p>En el contexto de este análisis utilizamos un dataset proveniente de datos.gov.co que contenía información recopilada en las pruebas saber 11 desde el año 2010 al 2022, en el dataset se podían encontrar multiples variables como: </p>
+
+<ul>
+    <li>Los puntajes globales en el ICFES</li>
+    <li>Los puntajes correspondientes a cada temática a evaluar (Naturales, Sociales, Matemáticas, Inglés y Lectura Crítica).</li>
+    <li>Información socioeconómica del hogar como: el estrato social, el numero de habitaciones, el numero de familiares, si la familia posee lavadora, si posee internet, el acceso a computador, el nivel educativo de los padres.</li>
+    <li>Información del estudiante como: su edad, la jornada de su colegio.</li>
+    <li>Información sobre el periodo en el que se realizo la prueba.</li>
+    <li>Información geográfica como el departamento donde se realizó la prueba.</li>
+</ul>
+
+##### Fecha de adquisición
+
+<p>La fecha de adquisición de los datos comprende entre el año 2010 al año 2022, sin embargo algunos periodos no aparecen debido a problemáticas como la pandemia.</p>
+
+## Perfiles
+
+<p>Para este análisis tuvimos en cuenta tres perfiles relacionados con la mejoría de la educación del país:
+<ol>
+    <li>Un profesor que busca mejorar los resultados en las pruebas de estado.</li>
+    Este perfil procura por el éxito académico de los estudiantes por ello está en la busqueda de resolver preguntas que puedan dar a soluciones para el éxito de los estudiantes en las pruebas de estado.
+    <li>Un trabajador del ministerio de educación encargado de la equidad.</li>
+    Este perfil busca identificar problemáticas de desigualdad que afectan a los estudiantes en los resultados de las pruebas de estado para así que otros miembros del ministerio se encarguen de solventar las problemáticas.
+    <li>Un investigador de educación</li>
+    Este perfil busca realizar estudios acerca de las distintas afectaciones que pueden modificar el desempeño de los estudiantes.
+</ol>
+</p>
+
+
+### Preguntas Correspondientes a cada perfil
+
+<p> Las preguntas elegidas se encontraran subrayadas </p>
 
 Y ahora mostramos el banco de preguntas del cual hicimos la selección:
-#### Perfil 1
-1.  *<u>¿Los puntajes en matemáticas han mejorado con el tiempo?</u> *
-2.  *<u>¿Cuál es la materia más baja y la materia más alta?</u> *
-3. ¿Los estudiantes de colegios privados tienen mejores resultados en matemáticas que los de colegios públicos? 
-4. ¿Cuál ha sido la evolución del puntaje global en los últimos años? 
-5. ¿Los estudiantes que presentan la prueba en un departamento diferente al que residen tienen un puntaje diferente al de quienes la presentan en su lugar de residencia? 
 
+#### Perfil 1
+<ol>
+<li> <u>¿Los puntajes en matemáticas han mejorado con el tiempo?</u> </li>
+<li> <u>¿Cuál es la materia más baja y la materia más alta?</u> </li>
+<li> ¿Los estudiantes de colegios privados tienen mejores resultados en matemáticas que los de colegios públicos? </li>
+<li> ¿Cuál ha sido la evolución del puntaje global en los últimos años? </li>
+<li> ¿Los estudiantes que presentan la prueba en un departamento diferente al que residen tienen un puntaje diferente al de quienes la presentan en su lugar de residencia? </li>
+</ol>
 #### Perfil 2
-1. ¿La edad influye en los resultados de los ICFES?
-2.  *<u>¿El nivel educativo de los padres influye en los puntajes de los estudiantes?</u> * 
-3. ¿Existe una relación entre el número de habitaciones del hogar y el puntaje?  
-4.  *<u>¿Cuál es la relación entre el departamento y el puntaje, hay diferencia regional?</u> *
-5. ¿El estrato socioeconómico de la familia influye en el resultado? 
+1. <li>¿La edad influye en los resultados de los ICFES?</li>
+2. <li>*<u>¿El nivel educativo de los padres influye en los puntajes de los estudiantes?</u> * </li>
+3. <li>¿Existe una relación entre el número de habitaciones del hogar y el puntaje?  </li>
+4. <li>*<u>¿Cuál es la relación entre el departamento y el puntaje, hay diferencia regional?</u> * </li>
+5. <li>¿El estrato socioeconómico de la familia influye en el resultado? </li>
 
 #### Perfil 3
-1. ¿Hay relación entre el acceso a computadores y los resultados?
-2. ¿Existe relación entre el estrato socioeconómico y los puntajes en cada materia? 
-3.  *<u>¿Los estudiantes de jornada nocturna tienen puntajes más bajos que los de jornada diurna?</u> *
-4.  *<u>¿El acceso a internet influye en la mejoría de los resultados ICFES?</u> * 
-5. ¿Hay relación entre que los estudiantes tengan internet y computador con el departamento? 
+1. <li>¿Hay relación entre el acceso a computadores y los resultados? </li>
+2. <li>¿Existe relación entre el estrato socioeconómico y los puntajes en cada materia? </li>
+3. <li> *<u>¿Los estudiantes de jornada nocturna tienen puntajes más bajos que los de jornada diurna?</u> * </li>
+4. <li> *<u>¿El acceso a internet influye en la mejoría de los resultados ICFES?</u> * </li>
+5. <li>¿Hay relación entre que los estudiantes tengan internet y computador con el departamento? </li>
 
 
 ### Herramientas de análisis
