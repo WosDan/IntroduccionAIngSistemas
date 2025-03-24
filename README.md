@@ -80,7 +80,7 @@ Y ahora mostramos el banco de preguntas del cual hicimos la selección:
     <li>-pandas: Que nos ayudó a leer los archivos csv y navegar entre las filas y columnas de estos para obtener la información.</li>
     <li>-Matplotlyb: Que nos ayudó en la generación de gráficos</li>
     <li>-Seaborn: Que también está orientada a la visualización de datos pero un poco más simplificada.</li>
-<ul>
+</ul>
 </p>
 
 ## Datos Extráidos
