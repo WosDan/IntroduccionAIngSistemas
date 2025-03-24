@@ -50,7 +50,7 @@ Y ahora mostramos el banco de preguntas del cual hicimos la selección:
 #### Perfil 1
 <ol>
     <li> <ins>¿Los puntajes en matemáticas han mejorado con el tiempo?</ins> </li>
-    <li> </ins>¿Cuál es la materia más baja y la materia más alta?</ins> </li>
+    <li> <ins>¿Cuál es la materia más baja y la materia más alta?</ins> </li>
     <li> ¿Los estudiantes de colegios privados tienen mejores resultados en matemáticas que los de colegios públicos? </li>
     <li> ¿Cuál ha sido la evolución del puntaje global en los últimos años? </li>
     <li> ¿Los estudiantes que presentan la prueba en un departamento diferente al que residen tienen un puntaje diferente al de quienes la presentan en su lugar de residencia? </li>
@@ -118,7 +118,7 @@ Los resultados se encuentran disponibles en las carpetas de los perfiles.
 
 El análisis de los datos revela que diversos factores, como la región de origen, el nivel educativo de los padres, el acceso a internet, la jornada escolar y las diferencias entre materias, tienen un impacto significativo en el desempeño académico de los estudiantes.  
 
-###🌍 Región de origen y desigualdad educativa  
+### 🌍 Región de origen y desigualdad educativa  
 Los estudiantes provenientes de regiones con mayor desarrollo económico e histórico, como **Bogotá, Cundinamarca, Santander y Boyacá**, presentan puntajes significativamente más altos en comparación con aquellos de regiones con menor economía y mayor presencia de zonas rurales, como **La Guajira, Chocó, Vaupés, Vichada y Guainía**.  
 
 > Esto evidencia la persistente desigualdad en el país, donde el acceso a educación de calidad sigue dependiendo de la ubicación geográfica.  
