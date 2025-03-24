@@ -49,26 +49,27 @@ Y ahora mostramos el banco de preguntas del cual hicimos la selección:
 
 #### Perfil 1
 <ol>
-    <li> \_¿Los puntajes en matemáticas han mejorado con el tiempo?\_ </li>
-    <li> \_¿Cuál es la materia más baja y la materia más alta?\_ </li>
+    <li> <ins>¿Los puntajes en matemáticas han mejorado con el tiempo?</ins> </li>
+    <li> </ins>¿Cuál es la materia más baja y la materia más alta?</ins> </li>
     <li> ¿Los estudiantes de colegios privados tienen mejores resultados en matemáticas que los de colegios públicos? </li>
     <li> ¿Cuál ha sido la evolución del puntaje global en los últimos años? </li>
     <li> ¿Los estudiantes que presentan la prueba en un departamento diferente al que residen tienen un puntaje diferente al de quienes la presentan en su lugar de residencia? </li>
 </ol>
+
 #### Perfil 2
 <ol>
     <li>¿La edad influye en los resultados de los ICFES?</li>
-    <li> \_¿El nivel educativo de los padres influye en los puntajes de los estudiantes?</u> </li>
+    <li> <ins>¿El nivel educativo de los padres influye en los puntajes de los estudiantes?</ins> </li>
     <li>¿Existe una relación entre el número de habitaciones del hogar y el puntaje?  </li>
-    <li> \_¿Cuál es la relación entre el departamento y el puntaje, hay diferencia regional?\_  </li>
+    <li> <ins>¿Cuál es la relación entre el departamento y el puntaje, hay diferencia regional?</ins>  </li>
     <li>¿El estrato socioeconómico de la familia influye en el resultado? </li>
 
 #### Perfil 3
 <ol>
    <li>¿Hay relación entre el acceso a computadores y los resultados? </li>
    <li>¿Existe relación entre el estrato socioeconómico y los puntajes en cada materia? </li>
-   <li> \_¿Los estudiantes de jornada nocturna tienen puntajes más bajos que los de jornada diurna?\_ </li>
-   <li> \_¿El acceso a internet influye en la mejoría de los resultados ICFES?\_ </li>
+   <li> <ins>¿Los estudiantes de jornada nocturna tienen puntajes más bajos que los de jornada diurna?</ins> </li>
+   <li> <ins>¿El acceso a internet influye en la mejoría de los resultados ICFES?</ins> </li>
    <li>¿Hay relación entre que los estudiantes tengan internet y computador con el departamento? </li>
 </ol>
 
