@@ -181,3 +181,17 @@ Para cerrar estas brechas, es fundamental:
 ✅ Abordar la **desigualdad estructural** en el acceso a oportunidades educativas.  
 ✅ Mejorar la enseñanza en **todas las regiones**.  
 ✅ Garantizar que **factores externos** no limiten el potencial de los estudiantes en el país.  
+
+## 10 Conclusiones finales ☝️🤓
+<ol>
+    <li>La <em>región de origen</em> puede afectar tu educación.</li>
+    <li>El <em>acceso a internet</em> es un gran apoyo para el estudio.</li>
+    <li>El <em>nivel educativo</em> al que llegaron a los padres puede afectar de manera <em>positiva</em> a los hijos si fue <em>mayor</em>.</li>
+    <li>El tipo de horario o <em>jornada</em> del estudiante afecta su estudio.</li>
+    <li>La materia con menor promedio es inglés, sin embargo es más fácil de conseguir la máxima nota.</li>
+    <li>La materia con mejor promedio es lectura crítica, pero es más difícil de conseguir la máxima nota.</li>
+    <li>El promedio general en materias como matemáticas está <em>estancado</em>.</li>
+    <li>Las regiones con menor acceso a internet son las que tienen peor promedio.</li>
+    <li>Las regiones menos pobladas son las que peor acceso a internet tienen.</li>
+    <li>Las condiciones socioeconómicas de los estudiantes puede condicionar su educación y por tanto su resultado.</li>
+</ol> 
